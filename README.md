@@ -13,7 +13,7 @@ I’m currently focused on improving my skills in **Flutter, C#, .NET, Web Devel
 - 🎓 IT Student
 - 📱 Currently learning **Flutter & Mobile App Development**
 - 💻 Working with **C# and Windows Forms**
-- 🌐 Learning **HTML, CSS, JavaScript & Tailwind CSS**
+- 🌐 Learning **HTML, CSS, JavaScript, Python & Tailwind CSS**
 - 🗄️ Exploring **MySQL, Microsoft Access & Database Management**
 - 🎨 Interested in **UI/UX and Figma**
 - 🇳🇵 Interested in building technology solutions for real-world problems in Nepal
@@ -51,20 +51,17 @@ A Flutter-based platform designed to help EV drivers discover charging stations,
 
 **Tech:** Flutter • Firebase • Maps • UI/UX
 
-### 🎫 Q-Pass – Digital Queue Management
-A digital token and queue management concept designed for public service locations such as hospitals, banks, municipalities, and driving license offices.
-
-**Tech:** Flutter • Firebase
-
-### 🩸 Blood Donation & Request Platform
-A platform focused on connecting verified blood donors with people who need blood, including location-based matching, request tracking, verification, and donation records.
-
-**Tech:** Flutter • Django • Database
 
 ### 🎓 Student Management System
 A student information and registration management system designed to replace manual student registration and make student information easier to manage.
 
-**Tech:** C# • .NET • MySQL
+**Tech:** JAVA • MySQL
+
+###🚕 Taxi Booking System
+
+A Python-based taxi booking system that allows users to book taxis and manage booking information. The project focuses on making the taxi booking process simple and organized.
+
+**Tech** Python • Database
 
 ---
 
