@@ -99,14 +99,6 @@ My goal is to become a skilled software developer who can create useful, user-fr
 
 ---
 
-## 📊 GitHub Stats
-
-![Anisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishashrestha821-svg\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishashrestha821-svg\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in learning new technologies, working on interesting projects, and collaborating with other developers.
